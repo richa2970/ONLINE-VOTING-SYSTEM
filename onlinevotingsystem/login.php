@@ -35,4 +35,4 @@ frmvalidator.addValidation("username", "maxlen=50");
 frmvalidator.addValidation("password", "req" , "Please Enter Password");
 </script>
 
-<?php include "footer.php"; ?>
+<?php?>
